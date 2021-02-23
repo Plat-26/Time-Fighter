@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Time Fighter</string>
+    <string name="tap_button">TAP</string>
+    <string name="score_display">Your Score: %1$d</string>
+    <string name="timer_display">Time Left: 00:%1$d</string>
+    <string name="gameOverMessage">Times up! Your score was: %1$d</string>
+    <string name="menu_about">About</string>
+    <string name="aboutTitle">TimeFighter %s</string>
+    <string name="aboutMessage">Created by Android dev pro max</string>
+</resources>
